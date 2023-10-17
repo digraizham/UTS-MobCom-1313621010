@@ -49,10 +49,5 @@ object MatkulsRepository {
             sksRes = R.string.sks9,
             imageRes = R.drawable.foto9
         ),
-        Matkul(
-            matkulNameRes = R.string.matkul10,
-            sksRes = R.string.sks10,
-            imageRes = R.drawable.foto10
-        ),
     )
 }

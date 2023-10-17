@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.example.uts.utsmobilecomputing"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.example.uts.utsmobilecomputing"

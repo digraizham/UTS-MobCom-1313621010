@@ -6,7 +6,7 @@ import androidx.compose.ui.text.font.Font
 import androidx.compose.ui.text.font.FontFamily
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.sp
-import com.example.uts.R
+import com.example.uts.utsmobilecomputing.R
 
 val Cabin = FontFamily(
     Font(R.font.cabin_regular, FontWeight.Normal),
